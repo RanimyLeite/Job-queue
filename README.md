@@ -32,6 +32,14 @@
 $ yarn install
 ```
 
+## Running the app for Docker
+
+```bash
+# development
+$ docker-compose up
+
+```
+
 ## Running the app
 
 ```bash
